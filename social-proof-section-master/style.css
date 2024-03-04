@@ -32,6 +32,7 @@ ul {
     flex-wrap: wrap;
     gap: 0.5rem;
     justify-content: center;
+    font-weight: 700;
   }
 }
 .section-article {
@@ -46,6 +47,7 @@ article {
   border-radius: 1rem;
   background-color: hsl(300, 43%, 22%);
   height: 17rem;
+  line-height: 1.2rem;
 }
 .picture {
   border-radius: 100%;
